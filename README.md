@@ -1,2 +1,0 @@
-# ThemeToggler
-Created with CodeSandbox
